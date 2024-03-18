@@ -1,6 +1,6 @@
 public class InvestimentAccount extends AccountSystem{
 
-    double taxa = 0.1;
+    double taxa = 1.01;
     int deadLine;
 
     public double remdimento(double taxa){
